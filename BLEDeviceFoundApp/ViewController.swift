@@ -52,6 +52,12 @@ class ViewController: UIViewController,CBCentralManagerDelegate,CBPeripheralDele
         self.myPeriPheral.discoverServices(nil)
     }
     
+    
+    func testGitBranchCode() {
+        print("name")
+    }
+    
+    
 }
 
 
