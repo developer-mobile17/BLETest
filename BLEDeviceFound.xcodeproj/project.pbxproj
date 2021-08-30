@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		86849C4B2680684F0035549E /* BLEDeviceFoundApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BLEDeviceFoundApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		86849C4B2680684F0035549E /* BLEDeviceFound.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BLEDeviceFound.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		86849C4E2680684F0035549E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		86849C502680684F0035549E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		86849C522680684F0035549E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		86849C4C2680684F0035549E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				86849C4B2680684F0035549E /* BLEDeviceFoundApp.app */,
+				86849C4B2680684F0035549E /* BLEDeviceFound.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		86849C4A2680684F0035549E /* BLEDeviceFoundApp */ = {
+		86849C4A2680684F0035549E /* BLEDeviceFound */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 86849C5F268068540035549E /* Build configuration list for PBXNativeTarget "BLEDeviceFoundApp" */;
+			buildConfigurationList = 86849C5F268068540035549E /* Build configuration list for PBXNativeTarget "BLEDeviceFound" */;
 			buildPhases = (
 				86849C472680684F0035549E /* Sources */,
 				86849C482680684F0035549E /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = BLEDeviceFoundApp;
+			name = BLEDeviceFound;
 			productName = BLEDeviceFoundApp;
-			productReference = 86849C4B2680684F0035549E /* BLEDeviceFoundApp.app */;
+			productReference = 86849C4B2680684F0035549E /* BLEDeviceFound.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 86849C462680684F0035549E /* Build configuration list for PBXProject "BLEDeviceFoundApp" */;
+			buildConfigurationList = 86849C462680684F0035549E /* Build configuration list for PBXProject "BLEDeviceFound" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				86849C4A2680684F0035549E /* BLEDeviceFoundApp */,
+				86849C4A2680684F0035549E /* BLEDeviceFound */,
 			);
 		};
 /* End PBXProject section */
@@ -326,7 +326,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		86849C462680684F0035549E /* Build configuration list for PBXProject "BLEDeviceFoundApp" */ = {
+		86849C462680684F0035549E /* Build configuration list for PBXProject "BLEDeviceFound" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				86849C5D268068540035549E /* Debug */,
@@ -335,7 +335,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		86849C5F268068540035549E /* Build configuration list for PBXNativeTarget "BLEDeviceFoundApp" */ = {
+		86849C5F268068540035549E /* Build configuration list for PBXNativeTarget "BLEDeviceFound" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				86849C60268068540035549E /* Debug */,
