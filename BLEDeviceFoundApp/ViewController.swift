@@ -54,7 +54,7 @@ class ViewController: UIViewController,CBCentralManagerDelegate,CBPeripheralDele
     
     
     func testGitBranchCode() {
-        print("name")
+        print("name SWIFT RXSWIFT IOSfdgnmgbkjd")
     }
     
     
