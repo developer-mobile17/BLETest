@@ -31,6 +31,10 @@ class ViewController: UIViewController,CBCentralManagerDelegate,CBPeripheralDele
             else {
                 print("Something wrong with BLE")
                 // Not on, but can have different issues
+                print("Something wrong with BLE")
+
+                print("Something wrong with BLE")
+
             }
         }
     
